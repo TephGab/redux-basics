@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "title": "Titre du poste",
+      "content": "Contenu du poste",
+      "author": "new user",
+      "likes": 0,
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "pseudo": "new user",
+      "likes": 21,
+      "id": 1
+    }
+  ]
+}
